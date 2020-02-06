@@ -4,7 +4,7 @@
  * Linked list is used because its my wish ;P
  * Happy Coding :)
  
- * For further help contact email: jwill.hyper@gmail.com
+ * For further help contact email: jwill.hyper@gmail.com [Jayanth, call me Jai]
 
 ########################################################################################################################################*/
 
